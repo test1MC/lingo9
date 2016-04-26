@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="Default.flpgl"
+    original="Index.liindexmap"
     source-language="en"
+    target-language="es"
     MadCap:file-filter=""
-    datatype="x-flpgl"
-    target-language="es">
+    datatype="x-liindexmap">
     <header>
       <skl><external-file
-          href="Default.flpgl.skl" /></skl>
+          href="Index.liindexmap.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"

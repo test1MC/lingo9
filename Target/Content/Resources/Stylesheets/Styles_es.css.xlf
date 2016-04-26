@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="Default.flpgl"
+    original="Styles.css"
     source-language="en"
     MadCap:file-filter=""
-    datatype="x-flpgl"
-    target-language="es">
+    datatype="x-css"
+    target-language="ar">
     <header>
       <skl><external-file
-          href="Default.flpgl.skl" /></skl>
+          href="Styles.css.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
